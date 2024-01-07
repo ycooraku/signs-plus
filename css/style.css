@@ -1194,6 +1194,12 @@ SP
     font-size: 0.8rem;
     margin: 0 20px 0 15px;
   }
+  #content #salon .inner .menu .women-list dl dt {
+    width: 40%;
+  }
+  #content #salon .inner .menu .women-list dl dd {
+    width: 40%;
+  }
   #content #salon .inner .menu .women-list dl p {
     width: 100%;
     font-size: 0.65rem;
