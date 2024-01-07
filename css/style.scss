@@ -1464,7 +1464,6 @@ SP
           }
           .text-area {
             position: absolute;
-            z-index: 100;
             top: 330px;
             left: 0;
             width: 100%;
@@ -1482,7 +1481,6 @@ SP
                 font-size: 0.8rem;
                 margin-top: 12px;
                 margin-left: 0;
-                width: 300px;
               }
             }
             dl {
