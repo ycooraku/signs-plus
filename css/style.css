@@ -1196,9 +1196,11 @@ SP
   }
   #content #salon .inner .menu .women-list dl dt {
     width: 50%;
+    border: solid 1px #000;
   }
   #content #salon .inner .menu .women-list dl dd {
     width: 50%;
+    border: solid 1px #000;
   }
   #content #salon .inner .menu .women-list dl p {
     width: 100%;
