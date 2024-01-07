@@ -1315,7 +1315,7 @@ SP
         position: relative;
         &:after {
           position: absolute;
-          top: 90px;
+          top: 45px;
           left: 47%;
           width: 40px;
         }
@@ -1438,9 +1438,11 @@ SP
           top: 0;
           .section-title {
             font-size: 0.875rem;
+            display: inline-block;
+            width: 180px;
             position: absolute;
             top: 40px;
-            left: -400px;
+            left: -15px;
           }
           .section-num {
             position: absolute;
