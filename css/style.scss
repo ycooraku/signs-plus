@@ -1221,6 +1221,12 @@ SP
               justify-content: space-between;
               font-size: 0.8rem;
               margin: 0 20px 0 15px;
+              dt {
+                width: 35%;
+              }
+              dd {
+                width: 65%;
+              }
             }
           }
           .notice {
