@@ -1449,7 +1449,7 @@ SP
     right: -22px;
     width: 75px;
   }
-  #content #information .map-area .inner .text-area {
+  ::webkit-full-page-media,:future,:root#content #information .map-area .inner .text-area {
     position: absolute;
     top: 330px;
     left: 0;
