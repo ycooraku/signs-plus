@@ -1462,7 +1462,7 @@ SP
             right: -22px;
             width: 75px;
           }
-          ::webkit-full-page-media,:future,:root.text-area {
+          .text-area {
             position: absolute;
             top: 330px;
             left: 0;
@@ -1477,7 +1477,7 @@ SP
                 font-size: 0.75rem;
                 margin-left: -7px;
               }
-              p {
+              _::-webkit-full-page-media, _:future, :root p {
                 font-size: 0.8rem;
                 margin-top: 12px;
                 margin-left: 0;
