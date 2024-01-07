@@ -1458,6 +1458,7 @@ SP
     font-size: 0.8rem;
     margin-top: 12px;
     margin-left: 0;
+    width: 300px;
   }
   #content #information .map-area .inner .text-area dl {
     flex-direction: column;
