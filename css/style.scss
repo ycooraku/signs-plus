@@ -1536,11 +1536,6 @@ SP
       }
     }
   }
-  _::-webkit-full-page-media, _:future, :root .address-name {
-    font-size: 0.8rem;
-    margin-top: 12px;
-    margin-left: 0;
-  }
   /*-------------------------------
   footer
   -------------------------------*/
@@ -1572,3 +1567,11 @@ SP
     }
   }
 }
+@media screen and (-webkit-max-device-pixel-ratio:0) and (max-width:768px) {
+  ::i-block-chrome, 
+    .address-name {
+      font-size: 0.6rem;
+      margin-top: 12px;
+      margin-left: 0;
+    }
+}	
