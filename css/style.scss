@@ -1536,7 +1536,11 @@ SP
       }
     }
   }
-
+  _::-webkit-full-page-media, _:future, :root .address-name {
+    font-size: 0.8rem;
+    margin-top: 12px;
+    margin-left: 0;
+  }
   /*-------------------------------
   footer
   -------------------------------*/
