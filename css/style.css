@@ -1519,11 +1519,6 @@ SP
     background: #fff;
     right: 20px;
   }
-  _::-webkit-full-page-media, _:future, :root .address-name {
-    font-size: 0.8rem;
-    margin-top: 12px;
-    margin-left: 0;
-  }
   /*-------------------------------
   footer
   -------------------------------*/
@@ -1553,5 +1548,13 @@ SP
   }
   #footer .copyright {
     margin-top: 15px;
+  }
+}
+@media screen and (-webkit-max-device-pixel-ratio: 0) and (max-width: 768px) {
+  ::i-block-chrome,
+  .address-name {
+    font-size: 0.6rem;
+    margin-top: 12px;
+    margin-left: 0;
   }
 }/*# sourceMappingURL=style.css.map */
