@@ -1466,7 +1466,7 @@ SP
     font-size: 0.75rem;
     margin-left: -7px;
   }
-  #content #information .map-area .inner .text-area .address .address-name {
+  #content #information .map-area .inner .text-area .address p {
     font-size: 0.8rem;
     margin-top: 12px;
     margin-left: 0;
